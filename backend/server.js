@@ -7,6 +7,8 @@ import userRouter from './routes/userRoute.js'
 import productRouter from './routes/productRoute.js'
 import cartRouter from './routes/cartRoute.js'
 import orderRouter from './routes/orderRoute.js'
+import chatbotRouter from './routes/chatbot.js'
+
 
 // App Config
 const app = express()
@@ -17,6 +19,9 @@ connectCloudinary()
 // middlewares
 app.use(express.json())
 app.use(cors())
+
+//chatbot
+app.use(chatbotRouter)
 
 // api endpoints
 app.use('/api/user',userRouter)
