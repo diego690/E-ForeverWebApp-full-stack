@@ -1,3 +1,48 @@
+Estructura Proyecto
+![image](https://github.com/user-attachments/assets/4b1daa94-7d63-4f59-8396-7b4e176f136a)
+
+
+##Admiin
+![image](https://github.com/user-attachments/assets/a3039c01-c9e9-4dca-9f20-413080a234bc)
+
+
+
+
+
+
+###Backend
+![image](https://github.com/user-attachments/assets/8fc2e209-a99c-4d90-91aa-cba3dde73b77)
+
+
+##cONTROLADOR DE CHAT BOT
+![image](https://github.com/user-attachments/assets/20c2aa68-f056-4a07-ad4b-fd357656aadb)
+
+##CONFIGURACION DE BACKEND CON API KEY, MONGODB MYSQL, STRIPE, ANTROPIC API KEY
+![image](https://github.com/user-attachments/assets/1e060693-7cb6-4594-aa20-81b25bdb09df)
+
+
+
+
+
+
+##CONSUMO DE APIS
+![image](https://github.com/user-attachments/assets/7d8e1573-6769-475c-8e8c-422c7276a0df)
+![image](https://github.com/user-attachments/assets/0ad41026-1a5a-48b7-85ce-63dffc8ab268)
+
+
+
+
+
+
+
+##frontend  REALIZADO CON VITE Y TAILWIND REACT Y NODE
+![image](https://github.com/user-attachments/assets/fe31063a-afec-4834-a7bd-2836e0b5f3ec)
+
+
+
+
+
+
 ##index
 ![image](https://github.com/user-attachments/assets/fcf1d7b1-075d-432c-8ea7-752941fa464f)
 ![image](https://github.com/user-attachments/assets/f0a82545-2665-44d7-b320-f13a854d32d7)
